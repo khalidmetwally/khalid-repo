@@ -2,6 +2,7 @@ tasks to study are:
 1- docker
 2- ansible
 3- python
-
-
+4- kubernetes
+5- git
 6- jenkins
+
