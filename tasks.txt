@@ -4,3 +4,5 @@ tasks to study are:
 3- python
 4- kubernetes
 5- git
+6- jenkins
+
